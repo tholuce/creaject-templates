@@ -11,6 +11,14 @@ Default templates, that will creject grab. Currently under development.
 5. initial python cli app
 6. initial .net core ali app
 7. reactjs and wordpress
+8. d3js and react.
+9. d3js and vanillajs.
+10. expressjs and typescript and fe.
+11. fastify and typescript and fe.
+12. python module.
+  a. project_files
+  b. create virtualenv
+13. 
 
 ## Templates:
 1. Vanilla javascript with vite.
