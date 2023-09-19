@@ -9,7 +9,7 @@ Default templates, that will creject grab. Currently under development.
 3. django with react / react - redux / @reduxjs/toolkit
 4. django with next.js
 5. initial python cli app
-6. initial .net core ali app
+6. initial nodejs clip app
 7. reactjs and wordpress
 8. d3js and react.
 9. d3js and vanillajs.
@@ -18,7 +18,8 @@ Default templates, that will creject grab. Currently under development.
 12. python module.
   a. project_files
   b. create virtualenv
-13. 
+13. electron-startup-template.
+14. chrome-extension-template.
 
 ## Templates:
 1. Vanilla javascript with vite.
